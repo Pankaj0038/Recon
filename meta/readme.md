@@ -11,6 +11,30 @@ Meta platforms, Inc., Formerly known as Facebook, is an American multinational t
 - [Crunchbase](https://www.crunchbase.com/home)<br>
 &emsp;Crunchbase is a comprehensive platform and database, thus I am using this to get the acquisitions of an organisation.
 
+    - Steps to produce:
+<table>
+  <tr>
+    <td><img src="./passive/img/search.png" width="1000" height="250" /></td>
+    <td>
+      <p>First go to <a href="https://www.crunchbase.com/home">Crunchbase</a> and at the top of the website there is a search bar where you can enter the target and hit enter to execute the search query.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <p>If the intended target organisation is found then click on it and look for highlight</p>
+    </td>
+    <td><img src="./passive/img/highmeta.png" width="1000" height="200" /></td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 | Company Name           | Acquisition Date  |
 |------------------------|-------------------|
